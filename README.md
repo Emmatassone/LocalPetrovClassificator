@@ -19,14 +19,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Emmatassone/power-spectrum-classification/README.md">
+  <a href="https://github.com/Emmatassone/pyPetrov/README.md">
     <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">Power-spectrum-classificator</h3>
+  <h3 align="center">pyPetrov</h3>
 
   <p align="center">
-    Machine Learning techniques that classificate Black hole or Neutron star power spectra.
+    Local Petrov type classification for arbitrary spacetimes.
     <br />
     <a href="https://github.com/Emmatassone/power-spectrum-classification/issues">Report Bug</a> 
   </p>
@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-power-spectrum-classification is a project focused on automating the classification of power spectra sources.
+pyPetrov is a project focused on the classification of arbitrary spacetimes, either analytical or numerical. Providing the psi scalars in a given point the code classify the approximate Petrov type, with a set of indexes. These indexes construct a notion of distance that let us know when a spacetime is near of being a certain type (type D for example). This notion is better suited for numerical spacetimes when we don't have any exact symmetry.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -74,7 +74,7 @@ power-spectrum-classification is a project focused on automating the classificat
 
 The project is built with python, with the help of the following libraries.
 
-* [![scikit-learn][scikit-learn-image]][scikit-learn-url]
+ *[![NumPy][numpy-image]][numpy-url]
 
 
 
@@ -85,15 +85,11 @@ The project is built with python, with the help of the following libraries.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To classificate a new source or observation, the observation file (.asc) should be placed in To_classify folder.
+To classificate a new spacetime, the psi scalars should be place in the .
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -107,11 +103,12 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add Sources
-  - [ ] Black Holes
-  - [ ] Neutron Stars
-  - [ ] Galaxies
-- [ ] Add Neural Network
+- [ ] Add more spacetimes
+  - [ ] Kerr
+  - [ ] Bianchi Universe
+  - [ ] Regge-Wheeler
+  - [ ] Teukolsky
+- [ ] Add Numerical spacetime example
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -157,10 +154,8 @@ Project Link: [https://github.com/Emmatassone/power-spectrum-classification](htt
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-A special thanks should be done to the following open-source projects.
+A special thanks should be done to the following 
 
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,5 +173,5 @@ A special thanks should be done to the following open-source projects.
 [issues-url]: https://github.com/Emmatassone/power-spectrum-classification/issues
 [license-shield]: https://img.shields.io/github/license/Emmatassone/power-spectrum-classification.svg?style=for-the-badge
 [license-url]: https://github.com/Emmatassone/power-spectrum-classification/blob/master/LICENSE
-[scikit-learn-image]: https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png
-[scikit-learn-url]: https://scikit-learn.org/stable/
+[scikit-learn-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png
+[scikit-learn-url]: https://numpy.org/
