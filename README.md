@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Emmatassone/pyPetrov/README.md">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+    <img src="images/example.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">pyPetrov</h3>
@@ -28,7 +28,7 @@
   <p align="center">
     Local Petrov type classification for arbitrary spacetimes.
     <br />
-    <a href="https://github.com/Emmatassone/power-spectrum-classification/issues">Report Bug</a> 
+    <a href="https://github.com/Emmatassone/pyPetrov/issues">Report Bug</a> 
   </p>
 </div>
 
