@@ -143,9 +143,7 @@ Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Emmanuel A. Tassone - [@EmmanuelTassone](https://twitter.com/EmmanuelTassone) - emmanueltassone@gmail.com
-
-Project Link: [https://github.com/Emmatassone/power-spectrum-classification](https://github.com/Emmatassone/power-spectrum-classification)
+Project Link: [https://github.com/Emmatassone/power-spectrum-classification](https://github.com/Emmatassone/pyPetrov)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,15 +161,15 @@ A special thanks should be done to the following
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Emmatassone/power-spectrum-classification.svg?style=for-the-badge
-[contributors-url]: https://github.com/Emmatassone/power-spectrum-classification/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Emmatassone/power-spectrum-classification.svg?style=for-the-badge
-[forks-url]: https://github.com/Emmatassone/power-spectrum-classification/network/members
-[stars-shield]: https://img.shields.io/github/stars/Emmatassone/power-spectrum-classification.svg?style=for-the-badge
-[stars-url]: https://github.com/Emmatassone/power-spectrum-classification/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Emmatassone/power-spectrum-classification.svg?style=for-the-badge
-[issues-url]: https://github.com/Emmatassone/power-spectrum-classification/issues
-[license-shield]: https://img.shields.io/github/license/Emmatassone/power-spectrum-classification.svg?style=for-the-badge
-[license-url]: https://github.com/Emmatassone/power-spectrum-classification/blob/master/LICENSE
-[scikit-learn-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png
-[scikit-learn-url]: https://numpy.org/
+[contributors-shield]: https://img.shields.io/github/contributors/Emmatassone/pyPetrov.svg?style=for-the-badge
+[contributors-url]: https://github.com/Emmatassone/pyPetrov/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Emmatassone/pyPetrov.svg?style=for-the-badge
+[forks-url]: https://github.com/Emmatassone/pyPetrov/network/members
+[stars-shield]: https://img.shields.io/github/stars/Emmatassone/pyPetrov.svg?style=for-the-badge
+[stars-url]: https://github.com/Emmatassone/pyPetrov/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Emmatassone/pyPetrov.svg?style=for-the-badge
+[issues-url]: https://github.com/Emmatassone/pyPetrov/issues
+[license-shield]: https://img.shields.io/github/license/Emmatassone/pyPetrov.svg?style=for-the-badge
+[license-url]: https://github.com/Emmatassone/pyPetrov/blob/master/LICENSE
+[numpy-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png
+[numpy-url]: https://numpy.org/
