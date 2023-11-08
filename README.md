@@ -171,5 +171,5 @@ A special thanks should be done to the following
 [issues-url]: https://github.com/Emmatassone/pyPetrov/issues
 [license-shield]: https://img.shields.io/github/license/Emmatassone/pyPetrov.svg?style=for-the-badge
 [license-url]: https://github.com/Emmatassone/pyPetrov/blob/master/LICENSE
-[numpy-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png
+[numpy-image]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWiyqKtwOVyMgJl56JwotnQaIZ6ZNgB1NoJnMJn3X0DfC8vSBEra7Wzw0tpJHmVzyG2U&usqp=CAU
 [numpy-url]: https://numpy.org/
