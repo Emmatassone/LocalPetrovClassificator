@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Emmatassone/pyPetrov/README.md">
-    <img src="images/example.png" alt="Logo" width="300" height="300">
+    <img src="example.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">pyPetrov</h3>
