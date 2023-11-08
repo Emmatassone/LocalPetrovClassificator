@@ -74,7 +74,7 @@ pyPetrov is a project focused on the classification of arbitrary spacetimes, eit
 
 The project is built with python, with the help of the following libraries.
 
- *[![NumPy][numpy-image]][numpy-url]
+ [![NumPy][numpy-image]][numpy-url]
 
 
 
