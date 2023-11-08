@@ -104,9 +104,9 @@ This is an example of how to list things you need to use the software and how to
 ## Roadmap
 
 - [ ] Add more spacetimes
-  - [ ] Kerr
-  - [ ] Bianchi Universe
-  - [ ] Regge-Wheeler
+  - [x] Kerr
+  - [x] Bianchi Universe
+  - [x] Regge-Wheeler
   - [ ] Teukolsky
 - [ ] Add Numerical spacetime example
 
