@@ -152,7 +152,7 @@ Project Link: [https://github.com/Emmatassone/power-spectrum-classification](htt
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-A special thanks should be done to the following 
+E.A.T want to thanks the grant RIT-COS 2021-DRIG for the financial support.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
